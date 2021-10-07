@@ -4,6 +4,7 @@ description: A popular minimal server framework for Python.
 tags:
   - python
   - flask
+  - cv2
 ---
 
 # Python Flask Example
