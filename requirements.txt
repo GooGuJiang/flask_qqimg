@@ -8,6 +8,5 @@ Werkzeug==1.0.1
 pyyaml
 numpy
 pillow
-opencv-python
 numpy
 requests
